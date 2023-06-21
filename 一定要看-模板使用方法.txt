@@ -1,16 +1,16 @@
-1.���� TeX Live 2021 ��������. ��װ TeX Live 2021 ֮����Ҫ��������.  
+1.适用 TeX Live 2021 软件环境. 安装 TeX Live 2021 之后需要立即更新.  
 
-2.ʹ�� XeLaTeX ����.
+2.使用 XeLaTeX 编译.
 
-3.���ĵ��� SUDAProject.tex .
+3.主文档是 SUDAProject.tex .
 
-4.��Ϊ˫ѧλ����ɾȥSUDAProject.cls�ļ��ĵ�58�м���59-61�еİٷֺ�"%".
+4.若为双学位，请删去SUDAProject.cls文件的第58行及第59-61行的百分号"%".
 
-4.ͼƬ����� figures �ļ���.
+4.使用时请将figures文件夹的压缩包解压,图片请放在 figures 文件夹.
 
-5.includefile ��ŵ�����Ӣ��ժҪ����л�ȵ���������Ĳ��֡�
-  ��ֱ������Щ�ļ�����д�������,��Ҫ�ı��ļ���λ��.
+5.includefile 存放的是中英文摘要、致谢等等正文以外的部分。
+  请直接在这些文件中填写相关内容,不要改变文件的位置.
 
-6.����ʹ��˵����ο� SUDAProject.pdf, �Լ�Դ�ļ� SUDAProject.tex ���ע��˵��.
+6.更多使用说明请参看 SUDAProject.pdf, 以及源文件 SUDAProject.tex 里的注释说明.
 
-2021 �� 09 �� 26 ��
+2023 年 06 月 20 日
